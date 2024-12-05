@@ -1,0 +1,10 @@
+id=1
+firstname="Manisha"
+lastname="Gupta"
+ssn='123-444-6532'
+address='Kanchanpur'
+billingAmount="10000"
+print(type(billingAmount))
+billingAmount=float(billingAmount)
+print(type(billingAmount))
+print(id,firstname,lastname,ssn[8:len(ssn)],address,billingAmount)

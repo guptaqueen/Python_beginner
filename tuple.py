@@ -1,0 +1,7 @@
+tpl = (20,29,'xyz',)
+print(tpl[2])
+print(tpl*2)
+print(tpl[-1:2])
+print(type(tpl))
+print(tpl.count(20))
+# print(max(tpl))
