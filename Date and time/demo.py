@@ -1,8 +1,7 @@
-name = ('hari','sita','gita','rita')
+# car = 'Audi'
+# car.lower() == 'audi'
+# print(car.lower())
 
-for names in name:
-
-    if names=='hari':
-        print(names.upper())
-    else:
-        print(names.title())
+car = 'audi'
+car == 'bmw'
+print(car)
